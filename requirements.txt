@@ -1,0 +1,13 @@
+customtkinter
+torch
+torchvision
+ultralytics
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+opencv-python
+Pillow
+python-vlc
+pyinstaller
